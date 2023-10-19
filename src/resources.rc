@@ -1,0 +1,3 @@
+#include "..\include\resources.h"
+1    24     "Appmanifest.xml"
+IDI_ICON  ICON    "pisunya.ico"
